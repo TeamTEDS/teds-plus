@@ -110,13 +110,13 @@ jobs:
           fetch-depth: 0
 
 
-      - name: Bump Version
-        uses: ./.github/actions/bump-pack
-        with:
-          release-tag: ${{ steps.version.outputs.match }}
-          modpack: ${{ matrix.modpack }}
-          branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
-        if: ${{ steps.release-please.outputs.pr != '' }}
+      # - name: Bump Version
+      #   uses: ./.github/actions/bump-pack
+      #   with:
+      #     release-tag: ${{ steps.version.outputs.match }}
+      #     modpack: ${{ matrix.modpack }}
+      #     branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
+      #   if: ${{ steps.release-please.outputs.pr != '' }}
 
 
       - name: Get Latest tag
