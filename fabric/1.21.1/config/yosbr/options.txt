@@ -1,0 +1,5 @@
+toggleSprint:true
+fov:0.5
+fullscreen:true
+resourcePacks:["vanilla","file/TEDS Plus Loading Screen.zip"]
+enableVsync:true

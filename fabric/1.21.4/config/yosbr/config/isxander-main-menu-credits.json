@@ -1,0 +1,16 @@
+{
+	"main_menu": {
+		"top_left": [],
+		"top_right": [],
+		"bottom_left": [],
+		"bottom_right": ["TEDS Plus"],
+		"mod_blacklist": []
+	},
+	"pause_menu": {
+		"top_left": [],
+		"top_right": [],
+		"bottom_left": ["TEDS Plus"],
+		"bottom_right": [],
+		"mod_blacklist": []
+	}
+}

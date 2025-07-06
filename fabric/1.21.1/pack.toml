@@ -1,0 +1,13 @@
+name = "TEDS Plus"
+author = "DovydasTEDS"
+version = "2.16.0+1.21.1.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f2d078f77ba9d26516a5a39293852b8c30778520aef611ddcd98f5a9c98b966"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"

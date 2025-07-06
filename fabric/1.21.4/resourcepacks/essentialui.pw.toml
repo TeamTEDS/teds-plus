@@ -1,0 +1,13 @@
+name = "Essential UI"
+filename = "Essential UI 1.21.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsSrime2/versions/Gh0S10vo/Essential%20UI%201.21.4.zip"
+hash-format = "sha512"
+hash = "d726075d6b8afc9c0f2654c0d41b905fd6dd4b0242cc3dca16aa3eca67673f741c963ee004ef68ccad5756b9610a9d8c544ce7aa6b4496d27b5bd492de5d93b5"
+
+[update]
+[update.modrinth]
+mod-id = "FsSrime2"
+version = "Gh0S10vo"
