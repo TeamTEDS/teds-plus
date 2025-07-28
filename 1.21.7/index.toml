@@ -13,12 +13,16 @@ file = "config/simplemenu/background/background.png"
 hash = "1bac664cfc8ffae83c8e43255a68445650d90d13340c2f67c99e1db558ca012c"
 
 [[files]]
+file = "config/simplemenu/icon/TEDS Plus (Curved Corners)@128x.png"
+hash = "1dc739260e364e2631e2aa61aae30a344455b43495df932095ded6afa3455a68"
+
+[[files]]
 file = "config/simplemenu/icon/icon_16x16.png"
-hash = "e5fd16dbfe78d3cadbf68fa90cde32347bf57803a1d5b054b894e734b0c9030d"
+hash = "cf1f02bd17f84ef522d73d3dcacd0599422347f3777c395c24337239aa1bcbfe"
 
 [[files]]
 file = "config/simplemenu/icon/icon_32x32.png"
-hash = "c56d8f3356e37da9ddba6f7acc4312a29261419698882df71da1569b12f4e517"
+hash = "903efedfcc8a0e1a066df51be5d5eae2eea2a8f1fb8f4839e0f663856a7c0a9a"
 
 [[files]]
 file = "config/simplemenu/logo/edition.png"
@@ -42,15 +46,19 @@ hash = "8283a039121e1730b82c29b7be37257efec34c01459c511a387942674f4a2032"
 
 [[files]]
 file = "config/yosbr/config/simplemenu/background/background.png"
-hash = "31b2b8d9a8b5d0bfedd062f41e31147eb620df9c07daca85c78fb3bba60da57b"
+hash = "1bac664cfc8ffae83c8e43255a68445650d90d13340c2f67c99e1db558ca012c"
+
+[[files]]
+file = "config/yosbr/config/simplemenu/icon/TEDS Plus (Curved Corners)@128x.png"
+hash = "1dc739260e364e2631e2aa61aae30a344455b43495df932095ded6afa3455a68"
 
 [[files]]
 file = "config/yosbr/config/simplemenu/icon/icon_16x16.png"
-hash = "e5fd16dbfe78d3cadbf68fa90cde32347bf57803a1d5b054b894e734b0c9030d"
+hash = "cf1f02bd17f84ef522d73d3dcacd0599422347f3777c395c24337239aa1bcbfe"
 
 [[files]]
 file = "config/yosbr/config/simplemenu/icon/icon_32x32.png"
-hash = "c56d8f3356e37da9ddba6f7acc4312a29261419698882df71da1569b12f4e517"
+hash = "903efedfcc8a0e1a066df51be5d5eae2eea2a8f1fb8f4839e0f663856a7c0a9a"
 
 [[files]]
 file = "config/yosbr/config/simplemenu/logo/edition.png"
@@ -296,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "1614366f37814b1f1e9248e055b576cbd88d6463164d2bd8b5654b12f58e7cea"
 metafile = true
 
 [[files]]
