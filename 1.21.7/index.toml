@@ -78,7 +78,7 @@ hash = "d200d13e8c3040449779179c409ee035ab0cf6298ea54e184c06de4fac2e36bd"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ec412967102ea4586ac8d93de1215be19588e900fcf3b74721a0e1eaee899f86"
+hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
 metafile = true
 
 [[files]]
@@ -103,12 +103,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
+hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "c54c63db8982ebcdcc966c4d95a30e42379c1db5cb8875840d736bec8c7ceb9a"
+hash = "bfa3ef713975bd287cdddd1afb713ed0f16326427cf2d78af4030f8b21b95be3"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "8a81b20d17e4ee4eaaf7f7c3547558ce0f24912633f17dcfb8f60bd7bb64e00c"
+hash = "b36098ad4d52f44a3e077847792af2cb9562560c3fd85ad25788d32ecb051830"
 metafile = true
 
 [[files]]
@@ -143,12 +143,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "bbf9d695a6bc75a6126aa49591f2ac0545bc3c20e370949ce3b4105b9405fb8a"
+hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
 metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
+hash = "5b68880f4f5606aa7848d5b1ed9fbb7351a41094a3e5d1090d943b85a5d8bc0a"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+hash = "7a409a13d5f8bb087ff615dc5947b3f26c6bacec22618d8d733d8d4789fb3543"
 metafile = true
 
 [[files]]
@@ -173,12 +173,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
+hash = "86c48ed50e75b3c37b6a8669100f9dd74c9cd0bc056ab7dbae47a00df8e94de9"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "7a4c50ad6759add92deada3974f1bb9f167eea0312c117ce6325ece4d8a27b39"
+hash = "6ad2a6b10c869985c1bbc96ce84fa1e6e8520b1f981417aac993cb18e1b70556"
 metafile = true
 
 [[files]]
@@ -188,12 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
+hash = "646a03dd78fcad34dd93fbbdc09d64010dc0f04fcec42927f229ecf448cf1832"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
+hash = "603e4d77cd5ee641515822d3319bf86b09f03671628e705cdf2f93af95f9214f"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
+hash = "e5506cea71f62e147a45e6c72a55a430fce5937024f648c819c15dc14b500462"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
+hash = "a9630d395372cf3774c5751058bd944d4848adde75acc1c12187962cc0fe60ef"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
+hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "1614366f37814b1f1e9248e055b576cbd88d6463164d2bd8b5654b12f58e7cea"
+hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
 metafile = true
 
 [[files]]
@@ -348,12 +348,12 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "23326b290daad25d464a67410cff0ca26ec894808c3782fb9fecfd30e95428bb"
+hash = "9d01184b05012d5b4c04d44ec3e7251aeb3b98fd0d7bb9e9ea28cd6024fbdc1f"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "65b187f6fce313c83a35ee2a29919a3a3a57d71c8d26d7306e1891899cf92b8f"
+hash = "0b81295141b0220b224e9f6af9cbfd25764bf2e3dfb122eacd49f9f9c29c92a9"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "89df73bdcd8faf70f963302ce3d41da19b088df284f14c526897ff831152117b"
+hash = "e55c90ed7bbc257b1eeb89e790c8eb12ce56fa752347649f8a2387fd39bfc8b8"
 metafile = true
 
 [[files]]
@@ -408,5 +408,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "be7ce4d8a7b6eeb6a430c06ff02050a69f171398c1094138d9fefe79ce45335e"
+hash = "3d6bc4f1cafd7779547440c78af9f5294f06b60fa0e7ead22daa886fa096d3ef"
 metafile = true

@@ -1,12 +1,12 @@
 name = "TEDS Plus"
 author = "DovydasTEDS"
-version = "2.16.1+1.21.7.fabric"
+version = "2.16.2+1.21.7.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fd07adf20739cb281164f934b243a3936c0a476ac128df0bbcb19377b18f9055"
+hash = "b635b91b3b8227bf9bcaa8ddaaf6f1591f73dd2c67e464c7b26ddac9016fefd6"
 
 [versions]
 fabric = "0.16.14"
